@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+.idea/
+saved_model/
+__pycache__
+*~
+.*~
+dist
+*.egg-info
+trained_models
+*.so
+*.dSYM
+
+
